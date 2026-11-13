@@ -1,6 +1,6 @@
 # flutter-skills
 
-Small tools I use on real Flutter projects, packaged so you can use them too. Each one lives in its own repo and works two ways: as a plain Dart script you run from the terminal or in CI, and as an agent skill for Claude Code or any agent that supports the Agent Skills format.
+Small tools I use on real Flutter projects, packaged so you can use them too. Each one lives in its own repo and works two ways: as a plain Dart script you run from the terminal or in CI, and as an agent skill for any coding agent that supports the Agent Skills format.
 
 | Tool | What it does |
 | --- | --- |
