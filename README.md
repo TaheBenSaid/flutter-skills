@@ -9,6 +9,7 @@ Small tools I use on real Flutter projects, packaged so you can use them too. Ea
 | [flutter-release-check](https://github.com/TaheBenSaid/flutter-release-check) | Catches the release mistakes that stop users from ever seeing your update. |
 | [flutter-secure-session](https://github.com/TaheBenSaid/flutter-secure-session) | Finds tokens stored or logged in the wrong place and moves them to secure storage, with a 401 refresh interceptor. |
 | [flutter-feature-scaffold](https://github.com/TaheBenSaid/flutter-feature-scaffold) | Starts a feature small and upgrades it to full Clean Architecture in place when it grows. |
+| [flutter-ux-details](https://github.com/TaheBenSaid/flutter-ux-details) | Five small UX details (undo, busy buttons, skeletons, optimistic toggles, empty states) with an audit that finds the missing ones. |
 
 Not Flutter-specific, for any stack:
 
